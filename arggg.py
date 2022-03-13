@@ -14,7 +14,7 @@ def subtraction(num2, num1):
 
 def divide(num1, num1):
     return num1 / num2
-
+# nobshank
 
 while True:
     value1 = int(input("Enter 1st number: "))
